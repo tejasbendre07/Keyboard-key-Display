@@ -1,2 +1,26 @@
-# Keyboard-key-Display
-This project is a lightweight JavaScript application that listens for keyboard events and displays the key pressed on the screen in real-time. It’s a beginner-friendly project that demonstrates how to handle user input, manipulate the DOM, and update UI dynamically.
+# Keyboard Key Display 🎹
+
+A simple JavaScript project that shows the key you press on your keyboard directly on the screen.  
+This project is perfect for beginners learning about **event listeners**, **DOM manipulation**, and **real-time UI updates**.
+
+---
+
+## 🚀 Features
+- Detects any key press on the keyboard.
+- Displays the pressed key on the screen.
+- Minimal and clean UI with centered text.
+- Lightweight and beginner-friendly project.
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure of the page
+- **CSS3** – Styling and layout
+- **JavaScript (ES6)** – Event handling and DOM updates
+
+---
+
+## 📂 Project Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/keyboard-key-display.git
