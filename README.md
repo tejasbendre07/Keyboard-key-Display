@@ -21,6 +21,5 @@ This project is perfect for beginners learning about **event listeners**, **DOM 
 ---
 
 ## 📂 Project Setup
-1. Clone the repository:https://github.com/tejasbendre07/Keyboard-key-Display.git
-   ```bash
-  https://github.com/tejasbendre07/Keyboard-key-Display.git
+1. Clone the repository:
+   ```bash https://github.com/tejasbendre07/Keyboard-key-Display.git
